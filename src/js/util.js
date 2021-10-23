@@ -1,0 +1,1 @@
+export const ramndom = max => Math.floor(Math.random() * max);
